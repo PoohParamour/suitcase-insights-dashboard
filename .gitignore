@@ -32,12 +32,6 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Data files (if sensitive)
-# Uncomment if you don't want to share data
-# data/
-# *.csv
-# *.xlsx
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
