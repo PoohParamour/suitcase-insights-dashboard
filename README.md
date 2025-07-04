@@ -141,6 +141,3 @@ streamlit run dashboard.py --server.address 0.0.0.0
 - เปลี่ยนสี theme
 - เพิ่มหน้าใหม่
 - ปรับ layout
-
-## ผู้พัฒนา
-สร้างโดย AI Assistant สำหรับการวิเคราะห์ข้อมูลการสำรวจพฤติกรรมผู้บริโภค 
